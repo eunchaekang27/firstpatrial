@@ -1,3 +1,5 @@
+https://replit.com/join/kdkhjjqgtv-eun-chaechae
+
 print("Hi, I'm a program that evaluates students")
 av_grade = int(input("Input your average grade from 0-100"))
 c_participation = input("Is your classroom participation good? (Answer with yes or no)")
